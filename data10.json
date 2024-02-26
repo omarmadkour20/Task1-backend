@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fName": "Omar",
+        "lName": "Madkour",
+        "age": 19,
+        "city": "Benha"
+    },
+    {
+        "id": 3,
+        "fName": "ahmed",
+        "lName": "seif",
+        "age": 21,
+        "city": "zagazig"
+    },
+    {
+        "id": 5,
+        "fName": "mohammed",
+        "lName": "loai",
+        "age": 23,
+        "city": "zagazig"
+    },
+    {
+        "id": 7,
+        "fName": "Abdelrahman",
+        "lName": "loai",
+        "age": 23,
+        "city": "zagazig"
+    },
+    {
+        "id": 9,
+        "fName": "poody",
+        "lName": "loai",
+        "age": 23,
+        "city": "zagazig"
+    },
+    {
+        "id": 10,
+        "fName": "Ahmed",
+        "lName": "loai",
+        "age": 23,
+        "city": "zagazig"
+    }
+]
